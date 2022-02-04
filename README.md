@@ -22,3 +22,10 @@ docker-compose up -d
 - Kong Proxy SSL: `http://127.0.0.1:8443` 
 - Konga: `http://127.0.0.1:1337`
 
+
+
+### Stop
+
+```sh
+docker-compose down
+```
