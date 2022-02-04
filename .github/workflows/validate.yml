@@ -9,3 +9,4 @@ jobs:
       - name: Build the stack
         run: |
           docker-compose -f docker-compose.yml config
+          docker-compose up -d
