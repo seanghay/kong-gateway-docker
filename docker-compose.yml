@@ -11,7 +11,7 @@ services:
       DB_PASSWORD: kong
       DB_DATABASE: konga_db
       TOKEN_SECRET: km1GUr4RkcQD7DewhJPNXrCuZwcKmqjb
-      NODE_ENV: development
+      NODE_ENV: production
     depends_on:
       - konga_init
       - gateway
