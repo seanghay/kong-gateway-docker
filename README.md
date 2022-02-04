@@ -1,5 +1,7 @@
 ## Kong API Gateway
 
+[![Validation](https://github.com/seanghay/kong-gateway-docker/actions/workflows/validate.yml/badge.svg)](https://github.com/seanghay/kong-gateway-docker/actions/workflows/validate.yml)
+
 - [x] Kong API Gateway@latest
 - [x] Konga@next (GUI for Kong Admin)
 - [x] Postgres@9.6
